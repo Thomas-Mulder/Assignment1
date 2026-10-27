@@ -1,6 +1,16 @@
 ---
-author: Thomas Mulder, Isabella
+author: Thomas Mulder, Isabella Roelofs
 title: "Assignment 1"
 ---
 
 # Test
+
+In this assignment, we investigate our research question
+
+# Data analysis
+
+```{python}
+#| echo: false
+
+print("HELLO WORLD!")
+```
